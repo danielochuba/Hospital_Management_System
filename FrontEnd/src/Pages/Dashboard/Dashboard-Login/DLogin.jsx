@@ -157,6 +157,7 @@ const DLogin = () => {
       <ToastContainer />
 
       <div className="mainLoginPage">
+         <h1 className="fcai-title">FCAI CLINIC MANAGEMENT</h1>
         <div className="leftside">
           <img src={banner} alt="banner" />
         </div>
