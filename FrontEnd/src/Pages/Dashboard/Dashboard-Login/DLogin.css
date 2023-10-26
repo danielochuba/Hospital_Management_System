@@ -26,6 +26,13 @@
   background-color: white;
 }
 
+.fcai-title {
+  position: absolute;
+  top: 5%;
+  left: 10%;
+  color: cornflowerblue;
+}
+
 .Profileimg {
   margin: auto;
   width: 26%;
